@@ -12,6 +12,23 @@ This project is the second part of [the project here](https://github.com/engyasi
 
 The camera used is caliberated in advance here ( the first program uses a virtual environement and a simulated camera and sensors, but a real one could be used in reality. However this requires changes to be made on multiple levels on the code).
 
+If you use this project in your work, you can cite this reference here [bib]:
+
+```
+@Inbook{Yousif2021,
+      author="Yousif, Yasin Maan and Hatem, Iyad",
+      editor="Koubaa, Anis",
+      title="Video Frames Selection Method for 3D Reconstruction Depending on ROS-Based Monocular SLAM",
+      bookTitle="Robot Operating System (ROS): The Complete Reference (Volume 5)",
+      year="2021",
+      publisher="Springer International Publishing",
+      address="Cham",
+      pages="351--380",
+      doi="10.1007/978-3-030-45956-7_11",
+      url="https://doi.org/10.1007/978-3-030-45956-7_11"
+}
+```
+
 ## Usage
 To get the code working ,the following requirements are needed:
 
